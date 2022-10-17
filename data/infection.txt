@@ -1,0 +1,4 @@
+case_id,country,city,infection_case,confirmed
+C0001,USA,New York,contact,175
+C0008,USA,New Jersey,unknown,25
+C0009,USA,Cupertino,contact,100
